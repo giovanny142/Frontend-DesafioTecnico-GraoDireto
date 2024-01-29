@@ -54,10 +54,8 @@ export default function ListRestaurants() {
     const handleChange = (text: any) => {
         setValue(text);
         if (text != '') {
-            console.log('passou')
             GetSearchFilter(textValue)
         } else {
-            console.log('ta zero')
             GetAllRestaurants()
         }
     }
