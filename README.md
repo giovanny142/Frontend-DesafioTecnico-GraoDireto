@@ -1,4 +1,4 @@
-Projeito feito para o desafio técnico da empresa Grão Direto.
+Projeto feito para o desafio técnico da empresa Grão Direto.
 
 
 
